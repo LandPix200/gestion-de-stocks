@@ -1,0 +1,1 @@
+clear && make && ./stocky && python clean_dep.py
